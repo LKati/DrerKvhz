@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dürer Kávéház</string>
+    <string name="name">Dürer Kávéház</string>
+    <string name="address1">1146 Budapest, Ajtósi Dürer sor 91.</string>
+    <string name="phone">+3613516223</string>
+    <string name="open">Open: weekdays 8:00 — 20:00</string>
+    <string name="website">www.durercafe.hu</string>
+    <string name="email">info@durercafe.hu</string>
+    <string name="description">Café Dürer is located in the heart of Budapest, opened in 1998. It is an art café with evening programs of literature, music and theatre, whereas in the daytime it is a perfect place for reading, chatting with friends or just relaxing above a delicious coffee. We serve coffees, teas, mineral water, soft drinks, and pastry. </string>
+</resources>
